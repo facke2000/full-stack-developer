@@ -1,1 +1,1 @@
-# full-stack-developer
+# f.s-developer
